@@ -49,8 +49,8 @@ module.exports = {
                     title: 'More',
                     items: [
                         {
-                            label: 'Changelog',
-                            to: 'changelog',
+                            label: 'Blog',
+                            to: 'blog',
                         },
                         {
                             label: 'GitHub',
