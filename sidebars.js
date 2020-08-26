@@ -9,6 +9,7 @@ module.exports = {
 			'entities',
 			'repositories',
 			'implementation',
+			'database-setup',
 		],
 		"Heimdall Grant Types": [
 			'client-credentials-grant',
