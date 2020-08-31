@@ -8,7 +8,7 @@ Orb have its own lifecycle that bound to the context activity.
 <br/>
 
 <div align="center">
-    <img src="../static/img/orb-lifecycle.png" alt="middleware" />
+    <img src="https://orb.ezralazuardy.com/img/orb-lifecycle.png" alt="orb lifecycle" />
 </div>
 
 ---
