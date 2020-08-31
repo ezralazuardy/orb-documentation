@@ -1,18 +1,18 @@
 module.exports = {
-    title: 'Heimdall',
-    tagline: 'Painless OAuth 2.0 Server for CodeIgniter 4 🔥',
-    url: 'https://github.com/ezralazuardy/heimdall',
+    title: 'Orb',
+    tagline: 'Android network monitoring made easy 🎉️',
+    url: 'https://github.com/ezralazuardy/orb',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     favicon: 'img/favicon.ico',
     organizationName: 'ezralazuardy',
-    projectName: 'heimdall',
+    projectName: 'orb',
     themeConfig: {
         navbar: {
-            title: 'Heimdall',
+            title: 'Orb',
             logo: {
-                alt: 'Heimdall Logo',
-                src: 'img/heimdall-logo.png',
+                alt: 'Orb Logo',
+                src: 'img/orb-logo.png',
             },
             items: [
                 {
@@ -27,7 +27,7 @@ module.exports = {
                     position: 'left'
                 },
                 {
-                    href: 'https://github.com/ezralazuardy/heimdall',
+                    href: 'https://github.com/ezralazuardy/orb',
                     label: 'GitHub',
                     position: 'right',
                 },
@@ -41,7 +41,7 @@ module.exports = {
                     items: [
                         {
                             label: 'Stack Overflow',
-                            href: 'https://stackoverflow.com/questions/tagged/heimdall',
+                            href: 'https://stackoverflow.com/questions/tagged/orb',
                         },
                     ],
                 },
@@ -54,7 +54,7 @@ module.exports = {
                         },
                         {
                             label: 'GitHub',
-                            href: 'https://github.com/ezralazuardy/heimdall',
+                            href: 'https://github.com/ezralazuardy/orb',
                         },
                     ],
                 },
@@ -67,17 +67,16 @@ module.exports = {
             '@docusaurus/preset-classic',
             {
                 docs: {
-                    homePageId: 'introduction',
                     routeBasePath: 'documentation',
                     sidebarPath: require.resolve('./sidebars.js'),
                     editUrl:
-                        'https://github.com/ezralazuardy/heimdall-documentation/edit/master/website/',
+                        'https://github.com/ezralazuardy/orb-documentation/edit/master/website/',
                 },
                 blog: {
                     showReadingTime: false,
-                    blogDescription: "Heimdall's Blog 📖",
+                    blogDescription: "Orb's Blog 📖",
                     editUrl:
-                        'https://github.com/ezralazuardy/heimdall-documentation/edit/master/website/blog/',
+                        'https://github.com/ezralazuardy/orb-documentation/edit/master/website/blog/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),

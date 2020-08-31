@@ -8,34 +8,28 @@ import styles from './styles.module.css';
 
 const features = [
 	{
-		title: <>🎉 Easy to use</>,
-		// imageUrl: 'img/undraw_docusaurus_mountain.svg',
+		title: <>🚀 Easy to use</>,
 		description: (
 			<>
-				Heimdall was designed from the ground up to be easily installed and
-				configured to get your OAuth 2.0 Server up and running quickly.
+				Orb was designed from the ground up to be easily installed and
+				used to monitor Android network status.
 			</>
 		),
 	},
 	{
-		title: <>🧰 Built for CodeIgniter 4</>,
-		// imageUrl: 'img/undraw_docusaurus_tree.svg',
+		title: <>👌 Simple & Concise API</>,
 		description: (
 			<>
-				Heimdall lets you focus on your functionality needs, and it&apos;ll do the chores. All
-				of the Heimdall API's also compatible with CodeIgniter framework.
+				Orb provides you a simple API, so that you can focus on functionality and
+				let the Orb do the job.
 			</>
 		),
 	},
 	{
-		title: <>🌟 Based on the best practices</>,
-		// imageUrl: 'img/undraw_docusaurus_react.svg',
+		title: <>🔄 Backward Compatible</>,
 		description: (
 			<>
-				Heimdall is implemented from <a href="https://github.com/thephpleague/oauth2-server" target="_blank" rel="noopener noreferrer">
-				OAuth 2.0 Server</a> library by <a href="https://thephpleague.com" target="_blank" rel="noopener noreferrer">
-				thephpleague.</a> All of Heimdall API's are based on them which
-				means Heimdall also support the best practices flow that recommended for OAuth 2.0 protocol.
+				Orb gives you backward compatibility with minimum supported API level 16 (Android 4.1 Jelly Bean).
 			</>
 		),
 	},
@@ -61,7 +55,7 @@ function Home() {
 	const {siteConfig = {}} = context;
 	return (
 		<Layout
-			description="Painless OAuth 2.0 Server for CodeIgniter 4 🔥">
+			description="Android network monitoring made easy 🎉">
 			<header className={clsx('hero hero--primary', styles.heroBanner)}>
 				<div className="container">
 					<h1 className="hero__title">{siteConfig.title}</h1>

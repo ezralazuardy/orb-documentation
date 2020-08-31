@@ -1,3 +1,3 @@
-## Heimdall Documentation
+## Orb Documentation
 
-The [Heimdall](https://github.com/ezralazuardy/heimdall) library documentation website. Written with ❤️ by [Ezra Lazuardy](https://github.com/ezralazuardy).
+The [Orb](https://github.com/ezralazuardy/orb) library documentation website. Written with ❤ by [Ezra Lazuardy](https://github.com/ezralazuardy).

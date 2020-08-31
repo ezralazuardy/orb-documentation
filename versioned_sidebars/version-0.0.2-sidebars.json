@@ -1,0 +1,46 @@
+{
+  "version-0.0.2/someSidebar": [
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Quickstart",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-0.0.2/introduction"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.2/installation"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.2/manifest"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.2/basic-usage"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.2/response"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.2/lifecycle"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Orb Demo",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-0.0.2/demo"
+        }
+      ]
+    }
+  ]
+}
